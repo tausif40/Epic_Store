@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#facebook-unauth-icon"/>
+          <use class="sqs-use--mask" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#facebook-unauth-mask"/>
+        </svg>
