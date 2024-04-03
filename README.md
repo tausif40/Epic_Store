@@ -10,4 +10,4 @@ In the project directory, you can run:
 
 ## Image if this website is
 
-![Epis Store](https://github.com/tausif40/Epic_Store/assets/155213674/10e97fd7-d92e-4c3b-b203-775fcfdff65c)
+![Epic_Store](https://github.com/tausif40/Epic_Store/assets/155213674/ab997240-4c89-4da2-8652-a72af3789ea5)
